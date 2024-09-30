@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">YourAppName</string>
     <string name="flag_button_description">Description of the flag button</string>
     <string name="welcome_message">Welcome to Android</string>
     <string name="explore_message">Explore Android</string>
     <string name="hello_world">Hello World!</string>
+    <string name="button_text" tools:ignore="DuplicateDefinition">Press Me</string>
     <string name="button_text">I'm a button!</string>
 </resources>
